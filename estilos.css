@@ -1,0 +1,30 @@
+body{
+
+    background-image: url(https://www.revistafactum.com/wp-content/uploads/2018/05/La-Casa-de-Papel.gif);
+    color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+thead{
+    color: black;
+    background-color: red;
+}
+
+tbody{
+    color: white;
+
+    }
+
+section{
+        background-color: rgba(30, 30, 30);
+        color: white;
+        text-align: center;
+        padding: 10px;
+    }
+
+h3{
+color: white;
+    }
+
+
